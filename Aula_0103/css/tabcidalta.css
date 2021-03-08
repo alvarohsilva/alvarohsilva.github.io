@@ -1,0 +1,12 @@
+table, th, td{
+    border: 0px;
+    border-collapse: collapse;
+    font-size: 25px;
+    text-align: justify;
+    margin: 2%;
+    padding: 10px;
+}
+img{
+    height: 100;
+    width: 100;
+}
